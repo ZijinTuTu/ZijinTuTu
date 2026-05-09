@@ -29,7 +29,7 @@ I enjoy combining theoretical research with practical engineering, especially in
 **Bachelor of Engineering in Software Engineering**  
 📍 Sept. 2023 – Jul. 2027  
 
-- GPA: **3.47 / 4.0**
+- GPA: **3.48 / 4.0**
 - Program: **Software Engineering, Excellent Engineer Class**
 - Honors:
   - Second-class Scholarship
