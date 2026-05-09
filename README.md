@@ -40,10 +40,6 @@ I enjoy combining theoretical research with practical engineering, especially in
   - Software Development and Comprehensive Training
   - Data Mining
 
-### Nanyang Technological University  
-**Visiting Program on Software Engineering**  
-📍 Feb. 2024  
-
 ---
 
 ## 🔬 Research Experience
@@ -124,18 +120,6 @@ I enjoy combining theoretical research with practical engineering, especially in
 
 ---
 
-### 2024 Guangzhou Collegiate Mathematical Modeling Invitational  
-📍 May 2024  
-
-- Led the team in building machine learning-based predictive models.
-- Developed a modeling approach combining Newton-Euler dynamics and fully connected neural network error correction.
-- Integrated the model into an MPC framework and used genetic algorithms for global optimization.
-
-🏅 **First Prize in Preliminary Contest**  
-🏅 **Third Prize in Final Contest**
-
----
-
 ## 🛠️ Projects
 
 ### YOLOv5 Object Detection and Computational Partitioning System  
@@ -162,7 +146,6 @@ I enjoy combining theoretical research with practical engineering, especially in
 ## 📫 Contact Me
 
 - Email: **zjtu25@outlook.com**
-- GitHub: [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
